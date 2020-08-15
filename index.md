@@ -71,7 +71,7 @@ You are now ready to develop addons.
 1. Go to [Discord Developer Portal](https://discordapp.com/developers/applications/) and create a new Application.
 2. Enable Bot in the application and copy the **Bot Token**.
 
-![DevPortal](/assets/img/devportal.png)
+M![DevPortal](/assets/img/devportal.png)
 
 ::: warning
 Do not reuse the token you used to create a bot on botbind.com
